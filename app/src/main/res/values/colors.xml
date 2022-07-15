@@ -6,5 +6,18 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="white_40">#66FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_28">#47FFFFFF</color>
+    <color name="main_background">#050B18</color>
+    <color name="oval_settings">#3D44A9F4</color>
+    <color name="text_settings">#44A9F4</color>
+    <color name="text_about_game">#B3EEF2FB</color>
+    <color name="text_r_a_r">#EEF2FB</color>
+    <color name="text_cnt_70m">#45454D</color>
+    <color name="text_comments">#A8ADB7</color>
+    <color name="tools_bar">#FFFFFF</color>
+    <color name="yellow">#F4D144</color>
+
 </resources>
